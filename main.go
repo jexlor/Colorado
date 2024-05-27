@@ -15,7 +15,7 @@ const (
 	White  = "\033[37m"
 )
 
-// ApplyColor applies the specified color to the input text
+// Colorado function applies the specified color to the input text
 func Colorado(text string, color string) string {
 	return fmt.Sprintf("%s%s%s", color, text, Reset)
 }
