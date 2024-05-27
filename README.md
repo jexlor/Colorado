@@ -4,7 +4,7 @@ Colors supported: <strong>Black, Red, Green, Yellow, Blue, Purple, Cyan, White.<
 
 All of these colors can be accesed through `Colorado` function
 
-Example: 
+Example with code: 
 
 ```go
 package main
