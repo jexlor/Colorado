@@ -2,7 +2,7 @@ Simple and fast micro-library for colored text and symbols.
 
 Colors supported: <strong>Black, Red, Green, Yellow, Blue, Purple, Cyan, White.</strong>
 
-All of these colors can be accesed through `Colorado` function
+All of these colors can be accesed through `Colorado` function.
 
 Example with code: 
 
@@ -24,3 +24,5 @@ func main() {
 To install the package using `go get`, run the following command in your terminal:
 
 ``go get github.com/GeorgeStoic/colorado``
+
+<strong>Note!</strong> Colors can differ if you use any theme for your terminal.
