@@ -25,7 +25,7 @@ func main() {
 
 ```go
 func main() {
-	text := "red text with bright blue background"
+	text := "red text"
 	fmt.Println(colorado.Color(text, colorado.Red, ""))
 }
 ```
