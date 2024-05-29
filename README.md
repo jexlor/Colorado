@@ -2,9 +2,9 @@ Simple and fast micro-library for colored text and symbols.
 
 Colors supported: <strong>Black, Red, Green, Yellow, Blue, Purple, Cyan, White.</strong>
 
-All of these colors can be accessed through `Colorado` function.
+All of these colors can be accesed through `Colorado` function
 
-<h2>Example</h2>
+<h1>Example:</h1> 
 
 ```go
 package main
@@ -16,13 +16,20 @@ import (
 )
 
 func main() {
-	text := "red text"
-	fmt.Println(colorado.Colorado(text, colorado.Red))
+	text := "red text with bright blue background"
+	fmt.Println(colorado.Color(text, colorado.Red, colorado.BrightBlueBg))
 }
 
 ```
+<h1>Example without background color:</h1> 
+
+```go
+func main() {
+	text := "red text with bright blue background"
+	fmt.Println(colorado.Color(text, colorado.Red, ""))
+}
+```
+
 To install the package using `go get`, run the following command in your terminal:
 
 ``go get github.com/GeorgeStoic/colorado``
-
-<strong>Note!</strong> Colors can differ if you use custom theme for your terminal.
