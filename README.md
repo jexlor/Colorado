@@ -5,7 +5,7 @@ Simple and fast micro-library for colored text and symbols.
 
 Colors supported: <strong>Black, Red, Green, Yellow, Blue, Purple, Cyan, White and more..</strong>
 
-All of these colors can be accesed through `Colorado` function
+All of these colors can be accesed through `Color` function
 
 <h1>Example:</h1> 
 
