@@ -1,3 +1,6 @@
+<img src="https://i.sstatic.net/sbSCk.png">
+
+
 Simple and fast micro-library for colored text and symbols.
 
 Colors supported: <strong>Black, Red, Green, Yellow, Blue, Purple, Cyan, White.</strong>
