@@ -1,3 +1,3 @@
-module github.com/jopiol/colorado
+module github.com/jexlor/colorado
 
 go 1.22.0
