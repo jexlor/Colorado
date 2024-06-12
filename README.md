@@ -16,7 +16,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/jopiol/colorado"
+	"github.com/jexlor/colorado"
 )
 
 func main() {
@@ -36,4 +36,4 @@ func main() {
 
 To install the package using `go get`, run the following command in your terminal:
 
-``go get github.com/jopiol/colorado``
+``go get github.com/jexlor/colorado``
