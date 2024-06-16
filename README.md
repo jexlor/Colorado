@@ -36,4 +36,6 @@ func main() {
 
 To install the package using `go get`, run the following command in your terminal:
 
-``go get github.com/jexlor/colorado``
+```bash
+go get github.com/jexlor/colorado
+```
