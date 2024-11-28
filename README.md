@@ -1,4 +1,7 @@
-<h1>Colorado 🎨</h1> [![PkgGoDev](https://pkg.go.dev/badge/github.com/jexlor/colorado)](https://pkg.go.dev/github.com/jexlor/colorado)
+<h1>Colorado 🎨</h1>  [![PkgGoDev](https://pkg.go.dev/badge/github.com/jexlor/colorado)](https://pkg.go.dev/github.com/jexlor/colorado)
+
+--------------------------------------------------
+
 <img src="https://i.sstatic.net/sbSCk.png">
 
 
